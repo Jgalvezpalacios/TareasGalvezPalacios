@@ -1,8 +1,20 @@
 Tarea01 GalvezPalacios
 
+
+# Trabajo clase 1
+---
 Link Miro: https://miro.com/app/board/uXjVMuoed98=/?share_link_id=884899034672
 
-En nuestro discusión por posibles temas, identificamos seis historias que nos gustarias cubrir, rescatando principalmente tres de ellas:
+
+## Equipo de trabajo:
+---
++ 1. Martina Nuñez
++ 2. Juan Flores
++ 3. Jorge Gálvez
+
+## Trabajo en Miro
+---
+### En nuestro discusión por posibles temas, identificamos seis historias que nos gustarias cubrir, rescatando principalmente tres de ellas:
 
 + Evolución de la músiva urbana chilena.
 - Pro: Es un tema contingente. En el último tiempo, Chile se ha consolidado como un semillero de artistas urbanos.
