@@ -7,10 +7,10 @@ Tarea01 GalvezPalacios
 ## Equipo de trabajo:
 ---
 
-+ 1. Martina Núñez
-+ 2. Juan Flores
-+ 3. Jorge Gálvez
----
+ 1. Martina Núñez
+ 2. Juan Flores
+ 3. Jorge Gálvez
+
 
 ## Trabajo en Miro
 ---
@@ -30,4 +30,4 @@ Tarea01 GalvezPalacios
 - Contra: La información de algunas de estas redes puede no ser accesible por respeto a la privacidad del usuario, y, nada asegura que los datos obtenidos sean reales, ya que, las personas puede seleccionar su edad sin requerir verificación. 
 ---
 
-Como grupo elegimos el tema "Evolución de la música urbana chilena." Como nuestro proyecto a trabajar este año.
+### Como grupo elegimos el tema "Evolución de la música urbana chilena." Como nuestro proyecto a trabajar este año.
