@@ -10,7 +10,8 @@ Se recolectaran los datos obtenidos de la aplicación "Bienestar digital y contr
 1. tiempo 
 1. aperturas
 
-La información sera anotada en una hoja de calculo para ser transformada a un archivo .csv
+La información sera anotada en una hoja de calculo para ser transformada a un archivo .csv 
+Este proceso sera realizado utilizando pandas, con la función  "to_csv"
 
 ### F
 Yo traspasando la información a una hoja de calculo a ultima hora:
