@@ -1,4 +1,3 @@
-
 # Tarea 3 - recolección de datos
 
 ## Tema
