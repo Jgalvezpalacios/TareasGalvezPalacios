@@ -1,16 +1,14 @@
-# Tarea 3 - recolección de datos
+## Tareas
 
-## Tema
-Tiempo y cantidad de apertura de aplicaciones de celular
+Cada tarea debe estar contenida en una carpeta llamada `Tarea_XX` donde `XX` es el número de la tarea. Si tiene un solo dígito, se debe anteponer un `0` a este.
 
-## Diseño y recolección de datos
-Se recolectaran los datos obtenidos de la aplicación "Bienestar digital y controles parentales" del dispositivo mobil, desde el 9 hasta el 13 de octubre, generando las siguientes casillas:
-1. aplicación
-1. fecha
-1. tiempo 
-1. aperturas
+Ejemplo: 
+* ...
+* `Tarea_08`
+* `Tarea_09`
+* `Tarea_10`
+* `Tarea_11`
+* `Tarea_12`
+* ...
 
-La información sera anotada en una hoja de calculo para ser transformada a un archivo .csv
-
-### F
-![Yo traspasando información a una hoja de calculo](https://pbs.twimg.com/media/FY2tU-VX0AIZo4_.jpg)
+Dentro de cada una de las tareas, **debes** tener un archivo `README.md` que utilice [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) donde expliques toda cosa asumida, consideración e información útil para tu corrector. 
