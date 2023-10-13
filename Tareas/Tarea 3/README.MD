@@ -13,4 +13,5 @@ Se recolectaran los datos obtenidos de la aplicación "Bienestar digital y contr
 La información sera anotada en una hoja de calculo para ser transformada a un archivo .csv
 
 ### F
+Yo traspasando la información a una hoja de calculo a ultima hora:
 ![Yo traspasando información a una hoja de calculo](https://pbs.twimg.com/media/FY2tU-VX0AIZo4_.jpg)
